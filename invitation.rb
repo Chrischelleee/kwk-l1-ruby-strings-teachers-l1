@@ -13,4 +13,7 @@ party_name = gets.chomp
 puts "What is the date of the party?"
 #getting the info for the date
 date = gets.chomp
-
+# asking what time the party will be held
+puts "What is the time of the party?"
+#getting info about the time
+time = gets.chomp
