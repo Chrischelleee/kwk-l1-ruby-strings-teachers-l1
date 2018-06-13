@@ -9,4 +9,8 @@ guest_name = gets.chomp
 puts "Can I know which party you have invited to?"
 # getting information for party_name
 party_name = gets.chomp
+#asking what date the party is
+puts "What is the date of the party?"
+#getting the info for the date
+date = gets.chomp
 
