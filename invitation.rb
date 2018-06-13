@@ -21,3 +21,8 @@ time = gets.chomp
 puts "Who is the host of this party?"
 #getting info about the host_name
 host_name = gets.chomp
+#interpolating the Strings
+
+puts "Dear #{guest_name}, You are cordially invited to the #{party_name} on #{date} at #{time}. Please RSVP no later than October 30. 
+Sincerely,
+#{host_name}"
