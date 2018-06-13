@@ -17,3 +17,7 @@ date = gets.chomp
 puts "What is the time of the party?"
 #getting info about the time
 time = gets.chomp
+#asking for the host_name
+puts "Who is the host of this party?"
+#getting info about the host_name
+host_name = gets.chomp
